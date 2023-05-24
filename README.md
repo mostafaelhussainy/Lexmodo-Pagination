@@ -52,6 +52,4 @@ const createPaginationData = {
 
 createPagination(createPaginationData);
 ```
-Make sure to replace the placeholders (<!-- Here ... --> and ↓↓↓↓) with the appropriate code and values according to your specific implementation.
-
 Note: The comments in the code provide guidance on where to place the previous button, index tabs, next button, and other relevant elements.
