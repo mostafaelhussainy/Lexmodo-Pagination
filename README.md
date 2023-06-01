@@ -41,12 +41,17 @@ const createPaginationData = {
     // This is the next page token element that holds all the data
     nextPageData: document.querySelector("#next-page-data"),  
     
-    // DATA
-    // Default number of indexes you want (must be a number and not less than 1)
+    /*
+    DATA
+    Default number of indexes you want (must be a number and not less than 1)
+    */
     maxTabsNumber: 3,  
     
-    // CALLBACKS
-    // All your callbacks that you want to execute after appending the new products from indexes (must be an array of functions)
+    /*
+    CALLBACKS
+    All your callbacks that you want to execute after appending the new 
+    products from indexes (must be an array of functions)
+    */
     callbacksToBeExecutedAfterAppendingProducts: [function1, function2, ....]
 };
 
