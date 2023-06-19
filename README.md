@@ -1,4 +1,4 @@
-# Lexmodo System Pagination
+# Numinix System Pagination
 This README file explains how to build pagination for the Lexmodo system. The pagination is used on the category products list in the category page to change the token provided by the system (<%= next_page %>) into a full pagination with index tabs and next/previous buttons, as requested in the design.
 
 ## Structure
